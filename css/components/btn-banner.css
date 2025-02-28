@@ -1,0 +1,17 @@
+.btn-banner{
+	padding: 15px;
+	background-color: lightseagreen;
+	color: white;
+	font-display: center;
+	border-radius: 5px;
+
+}
+
+.banner a.btn-banner:hover {
+		background-color: lightblue;
+		color: black;
+	}
+}
+.btn-banner a{
+	text-decoration: none
+}

@@ -1,0 +1,45 @@
+
+
+@import url(components/top-nav.css);
+@import url(components/container.css);
+@import url(components/banner.css);
+@import url(components/btn-banner.css);
+@import url(components/footer-list.css);
+@import url(components/structure-footer.css);
+@import url(components/card-grid.css);
+@import url(components/card.css);
+
+
+body{
+	background-color: #F5F5F5;
+}
+
+h1{
+	color: #4F4F4F;
+	font-size: 42px;
+	font-family: ;
+}
+
+h2{
+	color: ;
+	font-size: 28px;
+	font-family: ;
+	font-weight: ;
+	text-decoration: ;
+}
+
+p{
+	color: ;
+	font-size: 21PX;
+	font-family: ;
+	font-weight: ;
+	text-decoration: ;
+}
+
+a{
+	color: ;
+	font-size: 18px;
+	font-family: 'roboto' , sans-serif;
+	font-weight: 600;
+	text-decoration: none;
+}
